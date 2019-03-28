@@ -34,7 +34,6 @@
             <groupId>javax.websocket</groupId>
             <artifactId>javax.websocket-client-api</artifactId>
             <version>1.1</version>
-            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>org.glassfish.tyrus.bundles</groupId>
@@ -50,6 +49,7 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>1.8.0-beta4</version>
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>
